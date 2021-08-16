@@ -1,6 +1,6 @@
 <img  src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg"  />
 
-# Fazendo pagamenso nas Lojas (Apple e Google) com Flutter
+# Fazendo pagamentos nas Lojas (Apple e Google) com Flutter
 
 Você já pensou em como colocar pagamentos no seu aplicativo? E elevar para o 
 próximo nível sua aplicação?
